@@ -12,7 +12,7 @@ function Navi (){
            <button className="text-white border border-solid border-white rounded-md h-fit p-2 my-auto bg-emerald-800 w-32">
                <Link to="/ContactMe">Contact Me </Link> 
              </button>
-           <p className="text-3xl text-white text-center items-center my-auto" >Molly Blancaflor</p>
+           <p className="text-3xl text-white text-center items-center my-auto"> <Link to="/">Molly Blancaflor</Link></p>
            <button className="text-white border border-solid border-white rounded-md h-fit p-2 my-auto bg-emerald-800 w-32">
                <Link to="/Bio">Bio </Link>
            </button>
